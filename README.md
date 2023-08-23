@@ -1,4 +1,4 @@
-[中文点击这里](READMD_ZH_CN.md)
+[中文点击这里](READMD_zh_CN.md)
 
 ## Filaments
 
