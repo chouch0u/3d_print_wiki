@@ -11,5 +11,5 @@ The properties of PA/LA can vary based on factors such as the machine used, fila
 | Brand     | Material      | Color      | PA-Klipper (Direct/Bowden) | LA-Marlin (Direct/Bowden) | Flow ratio | Spool Weight(g) | AMS Support  | Absorb moisture Level |
 | --------- | ------------- | ---------- | -------------------------- | ------------------------- | ---------- | --------------- | ------------ | --------------------- |
 | Tinmorry  | PETG-ECO      | Milk White |                            | 0.035 /                   | 0.97       | 190             | YES          | Middle                |
-| Polymaker | PolyLite PETG | Gray       |                            |                           |            | 140±7           | YES(Adapter) | Middle                |
+| Polymaker | PolyLite PETG | Gray       |                            | 0.051 /                   | 0.964      | 140±7           | YES(Adapter) | Middle                |
 | Polymaker | PolyLite ASA  | Gray       |                            | 0.025 /                   | 0.914      | 140±7           | YES(Adapter) | Middle                |
