@@ -2,7 +2,7 @@
 
 ## Filaments
 
-I've gathered most of the information below using my own Bambu Lab P1P machine.
+Most information below is collected from my Bambu Lab P1P.
 
 ### PA/LA
 
